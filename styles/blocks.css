@@ -1,0 +1,29 @@
+.container {
+  width: 500px;
+  margin: 20px auto 20px auto;
+}
+
+.card {
+  margin: 10px auto;
+  padding: 20px;
+  background: #F6FCFF;
+  box-shadow: 1px 1px 3px rgba(216, 240, 253, 0.1);
+  border: 1px solid rgba(74, 115, 179, 0.1);
+  border-radius: 5px;
+}
+
+.td-description {
+  vertical-align: top;
+}
+
+.link-list {
+  padding: 0 10px 0 10px;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.list-hor {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}

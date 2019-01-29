@@ -1,0 +1,32 @@
+.text {
+  font-family: 'Maven Pro',sans-serif;
+}
+
+.name {
+  color: #3E5D9E;
+}
+
+.job_title {
+  color: #4A73B3;
+  letter-spacing: 1px;
+}
+
+.block-title {
+  color: #3E5D9E;
+}
+.description_text {
+  color: #3E5D9E;
+}
+
+.list-lg {
+  font-size: 32pt;
+}
+
+.list-sm {
+  font-size: 20pt;
+
+}
+
+.bold {
+  color: #344A87;
+}

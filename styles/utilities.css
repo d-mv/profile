@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+  margin-left: 15px;
+}
+
+.ml {
+ margin-left: 10px;
+}
+
+.mt0 {
+  margin-top: 0px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
