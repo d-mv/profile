@@ -6,10 +6,15 @@
 .card {
   margin: 10px auto;
   padding: 20px;
-  background: #F6FCFF;
+  background-color: rgb(246,252,255);
   box-shadow: 1px 1px 3px rgba(216, 240, 253, 0.1);
   border: 1px solid rgba(74, 115, 179, 0.1);
   border-radius: 5px;
+}
+
+.card:hover {
+  background-color: rgb(216, 240, 253);
+  box-shadow: 1px 1px 3px rgba(74, 115, 179, 0.1);
 }
 
 .td-description {
@@ -26,4 +31,8 @@
 
 .list-hor {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.scale:hover {
+  transform: scale(1.03);
 }
